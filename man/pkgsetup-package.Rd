@@ -4,11 +4,22 @@
 \name{pkgsetup-package}
 \alias{pkgsetup}
 \alias{pkgsetup-package}
-\title{pkgsetup: What the Package Does (One Line, Title Case)}
+\title{pkgsetup: Package and Project Setup Workflow}
 \description{
 \if{html}{\figure{logo.png}{options: align='right' alt='logo' width='120'}}
 
-What the package does (one paragraph).
+provide a complete step-by-step example of
+    package setup, commit history included. The intention is to report the
+    ground procedure to setup a robust production-ready, reproducible,
+    framework for high quality projects.
+}
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/CorradoLanera/pkgsetup}
+  \item Report bugs at \url{https://github.com/CorradoLanera/pkgsetup/issues}
+}
+
 }
 \author{
 \strong{Maintainer}: Corrado Lanera \email{corrado.lanera@gmail.com} (\href{https://orcid.org/0000-0002-0520-7428}{ORCID}) [copyright holder]

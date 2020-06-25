@@ -1,3 +1,5 @@
+^renv$
+^renv\.lock$
 ^pkgsetup\.Rproj$
 ^\.Rproj\.user$
 ^dev$
@@ -5,3 +7,4 @@
 ^README\.Rmd$
 ^CODE_OF_CONDUCT\.md$
 ^data-raw$
+^\.github$

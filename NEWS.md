@@ -1,5 +1,17 @@
 # pkgsetup 0.0.0.9000
 
+* Added full tidy's CIs powered by GitHub Actions.
+* Added automatic lint checks powered by `{lintr}` package and GitHub
+  Actions.
+* Added WEBsite documentation powered by `{pkgdown}`, automatically
+  deployed by a GitHub Action. Including a Badge-button for the `README`
+  file.
+* Activate GitHub support, including Contrib, issue template, support,
+  and CoC.
+* Initialize git repo
+* Initialize `{renv}` library and environment (with setting
+  `snapshot.type = "explicit"`) to track the packages effectively used
+  by the package.
 * Activate `{lintr}` static checks.
 * Added support for unit tests using `{testthat}`.
 * Added support for raw data with a folder `data-raw/` and `data-raw/DATASET.R` inside it to prepare the data for the package.

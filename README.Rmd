@@ -18,6 +18,10 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 [![CRAN status](https://www.r-pkg.org/badges/version/pkgsetup)](https://CRAN.R-project.org/package=pkgsetup)
 [![Lifecycle: maturing](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www.tidyverse.org/lifecycle/#maturing)
+[![R build status](https://github.com/CorradoLanera/pkgsetup/workflows/pkgdown/badge.svg)](https://github.com/CorradoLanera/pkgsetup/actions)
+[![R build status](https://github.com/CorradoLanera/pkgsetup/workflows/lint/badge.svg)](https://github.com/CorradoLanera/pkgsetup/actions)
+[![R build status](https://github.com/CorradoLanera/pkgsetup/workflows/R-CMD-check/badge.svg)](https://github.com/CorradoLanera/pkgsetup/actions)
+[![R build status](https://github.com/CorradoLanera/pkgsetup/workflows/test-coverage/badge.svg)](https://github.com/CorradoLanera/pkgsetup/actions)
 <!-- badges: end -->
 
 The goal of `{pkgsetup}` is to provide a complete step-by-step example of

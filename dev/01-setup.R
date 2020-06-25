@@ -301,14 +301,14 @@ usethis::use_github_actions_badge("lint")
 #' R-CDM-check and coverage
 #' --------------------------------------------------------------------
 usethis::use_github_action(
-  url = "https://raw.githubusercontent.com/CorradoLanera/actions/master/R-CDM-check-renv.yaml"
+  url = "https://raw.githubusercontent.com/CorradoLanera/actions/master/R-CMD-check-renv.yaml"
 )
-usethis::use_github_actions_badge("R-CDM-check")
+usethis::use_github_actions_badge("R-CMD-check")
 
 usethis::use_github_action(
   url = "https://raw.githubusercontent.com/CorradoLanera/actions/master/covr-renv.yaml"
 )
-usethis::use_github_actions_badge("covr")
+usethis::use_github_actions_badge("test-coverage")
 
 
 #'
