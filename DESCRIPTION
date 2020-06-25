@@ -1,5 +1,5 @@
 Package: pkgsetup
-Title: What the Package Does (One Line, Title Case)
+Title: Package and Project Setup Workflow
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Corrado",
@@ -7,7 +7,10 @@ Authors@R:
            role = c("aut", "cre", "cph"),
            email = "corrado.lanera@gmail.com",
            comment = c(ORCID = "0000-0002-0520-7428"))
-Description: What the package does (one paragraph).
+Description: provide a complete step-by-step example of
+    package setup, commit history included. The intention is to report the
+    ground procedure to setup a robust production-ready, reproducible,
+    framework for high quality projects.
 License: GPL-3
 Suggests: 
     spelling,
@@ -17,3 +20,5 @@ Language: en-US
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.0
+URL: https://github.com/CorradoLanera/pkgsetup
+BugReports: https://github.com/CorradoLanera/pkgsetup/issues
