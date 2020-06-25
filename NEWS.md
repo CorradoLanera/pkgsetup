@@ -1,5 +1,9 @@
+# pkgsetup (development version)
+
 # pkgsetup 0.0.0.9000
 
+* Added support for automatic background continuous tests for testthat
+powered by `{CorradoLanera/autotestthat}`.
 * Added full tidy's CIs powered by GitHub Actions.
 * Added automatic lint checks powered by `{lintr}` package and GitHub
   Actions.
