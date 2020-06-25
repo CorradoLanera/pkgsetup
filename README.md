@@ -38,17 +38,21 @@ devtools::install_github("CorradoLanera/pkgsetup")
 
 This package is here only to provide a blueprint for a full package
 setup. You can look at its structure, and you can find all the setup
-flow procedure into the file
-[`dev/01-setup.R`](https://github.com/CorradoLanera/pkgsetup/blob/master/dev/01-setup.R).
+flow procedure into the
+[`dev/`](https://github.com/CorradoLanera/pkgsetup/blob/master/dev/)
+folder.
+
 You can also take a look at the history of the commits.
 
 Happy Projecting\!
 
 ## Contribution
 
-If you have updates or better procedure/strategies to purpose, please
-file an [issue](https://github.com/CorradoLanera/pkgsetup/issues).
-Thanks.
+If you have updates or suggestions for better procedure/strategies,
+please open an
+[issue](https://github.com/CorradoLanera/pkgsetup/issues).
+
+Thanks\!
 
 ## Code of Conduct
 

@@ -1,5 +1,15 @@
 # pkgsetup (development version)
 
+* Created `dev/02-development.R` to keep track of the development
+process.
+
+
+
+
+
+
+
+
 # pkgsetup 0.0.0.9000
 
 * Added support for automatic background continuous tests for testthat
