@@ -6,6 +6,7 @@
 #'   html_document:
 #'     toc: true
 #'     toc_float: true
+#'     keep_md: true
 #' ---
 #'
 #' ```{r setup, include=FALSE}
